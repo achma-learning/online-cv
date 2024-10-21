@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: achma
+    tagline: Étudiant en médecine
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: example@email.com
     phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Africa/Casablanca # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: maach1
+    xing:
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,13 +36,13 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Arabic
           level: Native
 
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
@@ -69,9 +69,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Baccalauréat Sciences mathématiques A
+        university: GDGSR - IPSE | Safi
+        time: 2019 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +80,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Doctorat en Médecine - DM, Médecine générale
+        university: Faculté de Médecine et de Pharmacie de Marrakech - Université Cadi Ayyad
+        time: 2022 - 202X
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
