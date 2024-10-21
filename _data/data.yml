@@ -95,19 +95,11 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 
+        time: 12/06/2023 – 02/07/2023
+        company: Hôpital Militaire Avicenne de Marrakech
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Ce stage d'immersion dans les structures de soins se découle au terme de la première année de la formation médicale initiale. Pour mon expérience, j’ai eu cette opportunité pendant une période de trois semaines, du 12/06/2023 jusqu'au 02/07/2023 au sein de l’Hôpital Militaire Avicenne de Marrakech dans le service de Chirurgie Viscérale.
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
