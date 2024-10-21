@@ -24,7 +24,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: '@test'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -233,23 +233,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Sutures
+        level: 60%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: ECG
+        level: 20%
 
-      - name: Angular
-        level: 98%
+      - name: Intubation
+        level: 1%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Platre
+        level: 0%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Auscultation
+        level: 10%
 
-      - name: Sketch & Photoshop
+      - name: Sémiologie
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
